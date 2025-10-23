@@ -38,6 +38,8 @@
 4. **Open your browser**
    Navigate to `http://localhost:5173` to view the application
 
+### Application Demonstration 
+https://www.loom.com/share/59da8fbbea2549cb9713d84dd9c52792?sid=9b371de9-1446-4da4-98a7-dcf2b9d173da
 
 ## Design Decisions & Tradeoffs
 
@@ -159,6 +161,7 @@
 - **Visual stats bars** showing relative strength
 - **Type and ability badges** with proper styling
 - **Back button** returns to list with scroll position
+
 
 
 
